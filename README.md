@@ -58,6 +58,22 @@ Using Python and its data analysis and visualization libraries, the project iden
 | D/L Method Analysis | Matches involving the Duckworth-Lewis method |
 | Victory Analysis | Wins by runs and wickets |
 
+## 🔍 Key Insights
+
+| Analysis Area | Key Findings |
+|---|---|
+| **Season Analysis** | 2013 recorded the highest number of matches (approximately 76), while 2014 recorded the lowest (approximately 53). |
+| **Venue Analysis** | M. Chinnaswamy Stadium hosted the highest number of matches among the venues analysed. |
+| **City Analysis** | Mumbai hosted the highest number of matches, followed by Bangalore and Kolkata. |
+| **Team Performance** | Mumbai Indians recorded the highest number of wins (approximately 91), followed by Chennai Super Kings and Kolkata Knight Riders. |
+| **Toss Decision Analysis** | Teams chose to field first in 57.1% of tosses, while 42.9% chose to bat. |
+| **Player Performance** | Chris Gayle received the most Player of the Match awards (18), followed by Yusuf Pathan (16). David Warner and AB de Villiers received 15 each. |
+| **Umpire Analysis** | HDPK Dharmasena officiated the most matches (84), followed by S Ravi (83). |
+| **Toss vs Match Winner** | In 51.4% of matches, the toss winner also won the match, while in 48.6% the toss winner lost. |
+| **D/L Method Analysis** | 2016 recorded the highest number of D/L-affected matches (4). The 2009 and 2011 seasons recorded 3 each. |
+| **Victory by Runs** | Winning margins by runs varied across teams, with the box plot highlighting differences in median margins and outliers. |
+| **Victory by Wickets** | Winning margins by wickets also varied across teams, revealing differences in their match-winning patterns. |
+
 ## 🛠️ Tools & Technologies
 
 - **Python** – Data analysis and exploration.
